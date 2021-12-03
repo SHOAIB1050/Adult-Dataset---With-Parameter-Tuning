@@ -19,6 +19,8 @@ Distribution on the Based of Age
 Distribution on the Based of Average Hours per Week
 ![Untitled](https://user-images.githubusercontent.com/10377875/144553298-d6ef4c73-9983-40d0-b706-1db14a979883.png)
 
+Heatmap for Features Selection
+![Untitled](https://user-images.githubusercontent.com/10377875/144553750-7ced2feb-2166-4d31-be09-b5b8050fe977.png)
 
 
 
